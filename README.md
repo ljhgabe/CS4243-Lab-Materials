@@ -68,7 +68,7 @@ Here is a solution that works on my Mac M1. Shout out to [Better Data Science](h
     ```
    
 ### For Windows
-* Execute the following commands in shell
+
 1. Install Anaconda 3
    - https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 
