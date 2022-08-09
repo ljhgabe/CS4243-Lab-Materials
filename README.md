@@ -53,6 +53,10 @@ Here is a solution that works on my Mac M1. Shout out to [Better Data Science](h
     ```
 4. Create a new virtual environment and activate it:
     ```sh
+    # Clone this repo
+    git clone https://github.com/ljhgabe/CS4243-Lab-Materials.git
+    cd CS4243-Lab-Materials
+    
     conda create -n tf python=3.9
     conda activate tf
     ```
