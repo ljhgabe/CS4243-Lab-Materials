@@ -1,8 +1,6 @@
 # CS4243-Lab-Materials
 This repo contains lab materials for CS4243 - [Computer Vision and Pattern Recognition](https://nusmods.com/modules/CS4243/computer-vision-and-pattern-recognition) in AY22/23 Sem 1.
 I will be updating the link of my slides and other related materials here.
-
-## Catalog
 * [Lab Contents](#lab-contents)
 * [Environment Setup](#environment-setup)
     - [For Linux & OS X(x86_64)](#for-linux-and-os-x-intel)
@@ -41,6 +39,7 @@ I will be updating the link of my slides and other related materials here.
     ```sh
     jupyter notebook
     ```
+    
 ### For OS X Apple Silicon
 * I found previous commands did not work for installing tensorflow on Mac with Apple Silicon. 
 Here is a solution that works on my Mac M1. Shout out to [Better Data Science](https://github.com/better-data-science/TensorFlow/blob/main/000_TensorFlow_Installation_M1.md).
