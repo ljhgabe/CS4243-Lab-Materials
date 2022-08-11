@@ -2,6 +2,17 @@
 This repo contains lab materials for CS4243 - [Computer Vision and Pattern Recognition](https://nusmods.com/modules/CS4243/computer-vision-and-pattern-recognition) in AY22/23 Sem 1.
 I will be updating the link of my slides and other related materials here.
 
+## Catalog
+* [Lab Contents](## Lab Contents)
+* [Environment Setup](## Environment)
+    - [For Linux & OS X(x86_64)](### For Linux & OS X (x86_64))
+    - [For OS X (Apple Silicon)](### For OS X (Apple Silicon))
+    - [For Windows](### For Windows)
+
+
+## Lab Contents
+* Week 3 Lab 1
+
 ## Environment Setup
 ### For Linux & OS X (x86_64)
 * Execute the following commands in terminal
