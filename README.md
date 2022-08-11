@@ -5,8 +5,8 @@ I will be updating the link of my slides and other related materials here.
 ## Catalog
 * [Lab Contents](#lab-contents)
 * [Environment Setup](#environment-setup)
-    - [For Linux & OS X(x86_64)](#for-linux-&-os-x-(x86_64))
-    - [For OS X (Apple Silicon)](#for-os-x-(apple-silicon))
+    - [For Linux & OS X(x86_64)](#for-linux-and-os-x-intel)
+    - [For OS X (Apple Silicon)](#for-os-x-apple-silicon)
     - [For Windows](#for-windows)
 
 
@@ -14,7 +14,7 @@ I will be updating the link of my slides and other related materials here.
 * Week 3 Lab 1
 
 ## Environment Setup
-### For Linux & OS X (x86_64)
+### For Linux and OS X Intel
 * Execute the following commands in terminal
 1. Install Miniconda3
     ```sh
@@ -41,7 +41,7 @@ I will be updating the link of my slides and other related materials here.
     ```sh
     jupyter notebook
     ```
-### For OS X (Apple Silicon)
+### For OS X Apple Silicon
 * I found previous commands did not work for installing tensorflow on Mac with Apple Silicon. 
 Here is a solution that works on my Mac M1. Shout out to [Better Data Science](https://github.com/better-data-science/TensorFlow/blob/main/000_TensorFlow_Installation_M1.md).
 
