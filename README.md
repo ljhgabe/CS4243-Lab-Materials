@@ -3,11 +3,11 @@ This repo contains lab materials for CS4243 - [Computer Vision and Pattern Recog
 I will be updating the link of my slides and other related materials here.
 
 ## Catalog
-* [Lab Contents](## Lab Contents)
-* [Environment Setup](## Environment)
-    - [For Linux & OS X(x86_64)](### For Linux & OS X (x86_64))
-    - [For OS X (Apple Silicon)](### For OS X (Apple Silicon))
-    - [For Windows](### For Windows)
+* [Lab Contents](#lab-contents)
+* [Environment Setup](#environment-setup)
+    - [For Linux & OS X(x86_64)](#for-linux-&-os-x-(x86_64))
+    - [For OS X (Apple Silicon)](#for-os-x-(apple-silicon))
+    - [For Windows](#for-windows)
 
 
 ## Lab Contents
