@@ -82,9 +82,6 @@ Here is a solution that works on my Mac M1. Shout out to [Better Data Science](h
     ```
    
 ### For Windows
-The method listed below needs pip. If you don't have it on your computer, I would strongly recommend you to [download
-it](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.)
-onto your computer first.
 
 1. Install Anaconda 3
    - https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
