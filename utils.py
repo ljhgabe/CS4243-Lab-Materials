@@ -1,4 +1,4 @@
-# CS4243 Utility Functions, by Prof Amir ###
+import numpy as np
 
 def am_entropy(nimg , N=256):
     """
