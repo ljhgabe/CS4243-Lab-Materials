@@ -10,6 +10,7 @@ I will be updating the link of my slides and other related materials here.
 
 ## Lab Contents
 * [Week 3 Lab 1](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W3L1)
+* [Week 4 Lab 2](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W4L2)
 
 ## Environment Setup
 ### For Linux and OS X Intel
