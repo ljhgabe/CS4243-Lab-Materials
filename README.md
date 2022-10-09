@@ -15,6 +15,7 @@ I will be updating the link of my slides and other related materials here.
 * [Week 6 Lab 4](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W6L4)
 * [Week 7 Lab 5](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W7L5)
 * [Week 8 Lab 6](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W8L6)
+* [Week 9 Lab 7](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W9L7)
 
 ## Environment Setup
 ### For Linux and OS X Intel
