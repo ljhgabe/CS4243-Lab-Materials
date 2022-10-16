@@ -23,7 +23,7 @@ I will be updating the link of my slides and other related materials here.
 ### Google Colab
 * Follow the instruction in this notebook:
     https://colab.research.google.com/drive/1ew1wrAGItstR7HrYD8KJJlEsj750sOAR?usp=sharing
-* Open you Google Drive:
+* Open you Google Drive
 * Go to CS4243-Lab-Materials
 
 ### For Linux and OS X Intel
