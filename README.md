@@ -3,6 +3,7 @@ This repo contains lab materials for CS4243 - [Computer Vision and Pattern Recog
 I will be updating the link of my slides and other related materials here.
 * [Lab Contents](#lab-contents)
 * [Environment Setup](#environment-setup)
+    - [Google Colab](#google-colab)
     - [For Linux & OS X (Intel)](#for-linux-and-os-x-intel)
     - [For OS X (Apple Silicon)](#for-os-x-apple-silicon)
     - [For Windows](#for-windows)
@@ -19,6 +20,12 @@ I will be updating the link of my slides and other related materials here.
 * [Week 10 Lab 8](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W10L8)
 
 ## Environment Setup
+### Google Colab
+* Follow the instruction in this notebook:
+    https://colab.research.google.com/drive/1ew1wrAGItstR7HrYD8KJJlEsj750sOAR?usp=sharing
+* Open you Google Drive:
+* Go to CS4243-Lab-Materials
+
 ### For Linux and OS X Intel
 * Execute the following commands in terminal
 1. Install Miniconda3
