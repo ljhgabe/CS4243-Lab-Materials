@@ -19,6 +19,7 @@ I will be updating the link of my slides and other related materials here.
 * [Week 9 Lab 7](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W9L7)
 * [Week 10 Lab 8](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W10L8)
 * [Week 12 Lab 9](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W12L9)
+* [Week 13 Lab 10](https://github.com/ljhgabe/CS4243-Lab-Materials/tree/main/W13L10)
 
 ## Environment Setup
 ### Google Colab
